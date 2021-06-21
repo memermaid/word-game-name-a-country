@@ -25,7 +25,7 @@ In order to run the game, you need the following file:
 
 countries.csv
 
-Credits
+### Credits:
 
 In order to complete the project, I used my knowledge gained during the course Code in Place 2021. I used PyCharm editor to write code.
 
